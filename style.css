@@ -1,0 +1,63 @@
+body{
+background:brown;
+text-align: center;	
+margin-right: 10px;
+margin-left: 10px;
+font-size: 20px;
+color: brown;
+font-family: cursive;
+
+
+}
+.images{
+border-radius: 10px;
+padding-left: 30px;
+padding-top: 30px;
+background-color:green;
+shape-margin:10px;
+}
+a{
+text-decoration: none;
+padding-left: 7px;
+padding-top: 10px;
+}
+.data{
+padding-left: 30px;
+padding-top: 10px;
+background-color:gold;
+}
+footer{
+background-color:maroon;
+width: 100%
+padding-left:15px;	
+}
+.links{
+background-color: maroon;
+padding-left: 15px;
+border-width: 100%
+
+	
+}
+.data{
+background-color: grey;
+text-decoration-color: pink;
+}
+.name{
+background-color: lightgreen;
+}
+.description{
+background-color:violet;
+height:600px; 
+font-family: cursive; 		 	
+}
+.pages{
+background-color: maroon;
+}
+	
+.logo{
+	color:gold;
+	taxt-align:center;
+	font-size: 50px;
+	font-family:cursive;
+	
+}
